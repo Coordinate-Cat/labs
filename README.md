@@ -20,6 +20,7 @@ A group of repositories of code that I would like to verify a bit.
 
 ## lists
 
+- [lab-visibilitystate](https://github.com/Coordinate-Cat/lab-visibilitystate)
 - [lab-uselinkstatus](https://github.com/Coordinate-Cat/lab-uselinkstatus)
 - [lab-i18n](https://github.com/Coordinate-Cat/lab-i18n)
 - [lab-bootstrap](https://github.com/Coordinate-Cat/lab-bootstrap)
